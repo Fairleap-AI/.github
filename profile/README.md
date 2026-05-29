@@ -19,47 +19,112 @@
   <img src="assets/logo.png"/>
   <h1 align="center">Fairleap AI</h1>
 </p>
-   
-## 📘 Project Overview
-Fairleap AI is a platform designed to address income uncertainty and enhance the well-being of Gojek/GOTO drivers.
-
-Fairleap AI is deployed on [fairleap.cloud](https://fairleap.cloud) and it's API (Back End) deployed on [api.fairleap.cloud](https://api.fairleap.cloud)
-
-Fairleap AI Frontend Repository: [https://github.com/Fairleap-AI/fairleap-fe](https://github.com/Fairleap-AI/fairleap-fe)<br>
-Fairleap AI API Backend Repository: [https://github.com/Fairleap-AI/fairleap-api](https://github.com/Fairleap-AI/fairleap-api)<br>
-Fairleap AI RAG + AI Backend Repository: [https://github.com/Fairleap-AI/fairleap-ai](https://github.com/Fairleap-AI/fairleap-ai)
 
 <p align="center">
-  <img src="assets/screenshots/1.png"/>
-  <img src="assets/screenshots/2.png"/>
-  <img src="assets/screenshots/3.png"/>
-  <img src="assets/screenshots/4.png"/>
-  <img src="assets/screenshots/5.png"/>
-  <img src="assets/screenshots/6.png"/>
-  <img src="assets/screenshots/7.png"/>
-  <img src="assets/screenshots/8.png"/>
-  <img src="assets/screenshots/9.png"/>
-  <img src="assets/screenshots/10.png"/>
-  <img src="assets/screenshots/11.png"/>
-  <img src="assets/screenshots/12.png"/>
-  <img src="assets/screenshots/13.png"/>
-  <img src="assets/screenshots/14.png"/>
-  <img src="assets/screenshots/15.png"/>
-  <img src="assets/screenshots/16.png"/>
-  <img src="assets/screenshots/17.png"/>
-  <img src="assets/screenshots/18.png"/>
-  <img src="assets/screenshots/19.png"/>
-  <img src="assets/screenshots/20.png"/>
-  <img src="assets/screenshots/21.png"/>
-  <img src="assets/screenshots/22.png"/>
-  <img src="assets/screenshots/23.png"/>
-  <img src="assets/screenshots/24.png"/>
-  <img src="assets/screenshots/25.png"/>
-  <img src="assets/screenshots/26.png"/>
-  <img src="assets/screenshots/27.png"/>
-  <img src="assets/screenshots/28.png"/>
-  <img src="assets/screenshots/29.png"/>
-  <img src="assets/screenshots/30.png"/>
+  <b>An AI co-pilot for the financial well-being of Indonesia's gig drivers.</b>
+</p>
+
+## 📘 What is Fairleap AI?
+
+**Fairleap AI** is an AI-powered financial well-being platform built for **Gojek / GoTo ride-hailing and delivery drivers**. It turns a driver's raw, irregular trip data into clear earnings insights, personalized financial guidance, and wellness support — helping drivers move from day-to-day income uncertainty toward long-term financial stability.
+
+The name says it all: a **fair leap** forward for the gig workers who keep Indonesia moving.
+
+## ❓ The Problem
+
+Gig-economy drivers are the backbone of Indonesia's on-demand economy, yet they face structural challenges that traditional financial tools ignore:
+
+- **Income uncertainty** — earnings swing daily with demand, weather, surge pricing, and hours worked, making it nearly impossible to budget or plan ahead.
+- **No financial visibility** — drivers rarely have tools to understand *why* they earn what they earn, or how to optimize their working hours.
+- **Limited access to financial advice** — conventional financial advisory and investment products are not designed for variable, cash-based gig income.
+- **Well-being is overlooked** — long hours on the road create fatigue and stress that directly affect both safety and earning capacity.
+
+## 💡 How Fairleap AI Solves It
+
+Fairleap AI combines **machine-learning forecasting** with **Generative AI (RAG-powered) advisory** to give every driver a personal financial and wellness assistant:
+
+- **📊 Earnings Analytics & Forecasting** — ML regression models (XGBoost / scikit-learn) analyze historical trip data to surface earning patterns and **predict future earnings**, so drivers know what to expect and when to drive.
+- **🤖 AI Financial Advisor** — a Generative AI advisor (powered by Alibaba Cloud Qwen via DashScope, with RAG grounding) delivers **personalized financial tips** tailored to each driver's income profile.
+- **📈 Investment Guidance** — an AI investment bot recommends suitable, easy-to-understand investment options for variable gig income.
+- **🧘 Wellness Companion** — an AI wellness assistant provides health, fatigue, and work-life-balance guidance to keep drivers safe and sustainable.
+- **💬 Conversational Chatbot** — a RAG-based chatbot answers driver questions in natural language, grounded in Fairleap's domain knowledge.
+- **🖥️ Unified Dashboard** — a clean web dashboard brings earnings, analytics, financial advice, and wellness together in one place.
+
+## 🗂️ Repositories & Deployments
+
+| Component | Description | Repository | Deployment |
+|-----------|-------------|------------|------------|
+| 🌐 **Frontend** | Next.js web app & driver dashboard | [Fairleap-AI/fairleap-fe](https://github.com/Fairleap-AI/fairleap-fe) | [fairleap.faizath.com](https://fairleap.faizath.com) *(formerly fairleap.cloud)* |
+| ⚙️ **API Backend** | Core REST API, auth & data layer | [Fairleap-AI/fairleap-api](https://github.com/Fairleap-AI/fairleap-api) | [fairleap-api.faizath.com](https://fairleap-api.faizath.com) *(formerly api.fairleap.cloud)* |
+| 🧠 **AI / RAG Backend** | ML forecasting & GenAI advisory services | [Fairleap-AI/fairleap-ai](https://github.com/Fairleap-AI/fairleap-ai) | Served with Docker internally |
+
+## 🏆 Alibaba Cloud Indonesia GenAI Hackathon 2025
+
+<p align="center">
+  <b>🥇 Fairleap AI was built and submitted to the Alibaba Cloud Indonesia GenAI Hackathon 2025, where it was selected as a <ins>Top 12 Finalist</ins>.</b>
+</p>
+
+The **Alibaba Cloud Indonesia GenAI Hackathon 2025** is a national-scale Generative AI hackathon held on **May 24–25, 2025 in Jakarta, Indonesia** (Habitate, Kuningan). It is **organized by Alibaba Cloud, the GoTo Group, and KOMDIGI** (Indonesia's Ministry of Communication and Digital Affairs).
+
+The competition challenges innovators across Indonesia to build impactful, real-world solutions using **Generative AI on Alibaba Cloud** — leveraging services such as the **Qwen** large language models via **DashScope**. It brings together developers, students, and startups to prototype GenAI applications that address tangible problems, with finalists pitching their solutions to a panel of industry judges.
+
+Out of all participating teams, **Fairleap AI advanced to the Top 12 Finalists**, recognizing its use of Generative AI to tackle income uncertainty and well-being for Indonesia's gig-economy drivers.
+
+## 🖼️ Screenshots
+
+<p align="center">
+  <table>
+    <tr>
+      <td><img src="assets/screenshots/1.png"/></td>
+      <td><img src="assets/screenshots/2.png"/></td>
+      <td><img src="assets/screenshots/3.png"/></td>
+    </tr>
+    <tr>
+      <td><img src="assets/screenshots/4.png"/></td>
+      <td><img src="assets/screenshots/5.png"/></td>
+      <td><img src="assets/screenshots/6.png"/></td>
+    </tr>
+    <tr>
+      <td><img src="assets/screenshots/7.png"/></td>
+      <td><img src="assets/screenshots/8.png"/></td>
+      <td><img src="assets/screenshots/9.png"/></td>
+    </tr>
+    <tr>
+      <td><img src="assets/screenshots/10.png"/></td>
+      <td><img src="assets/screenshots/11.png"/></td>
+      <td><img src="assets/screenshots/12.png"/></td>
+    </tr>
+    <tr>
+      <td><img src="assets/screenshots/13.png"/></td>
+      <td><img src="assets/screenshots/14.png"/></td>
+      <td><img src="assets/screenshots/15.png"/></td>
+    </tr>
+    <tr>
+      <td><img src="assets/screenshots/16.png"/></td>
+      <td><img src="assets/screenshots/17.png"/></td>
+      <td><img src="assets/screenshots/18.png"/></td>
+    </tr>
+    <tr>
+      <td><img src="assets/screenshots/19.png"/></td>
+      <td><img src="assets/screenshots/20.png"/></td>
+      <td><img src="assets/screenshots/21.png"/></td>
+    </tr>
+    <tr>
+      <td><img src="assets/screenshots/22.png"/></td>
+      <td><img src="assets/screenshots/23.png"/></td>
+      <td><img src="assets/screenshots/24.png"/></td>
+    </tr>
+    <tr>
+      <td><img src="assets/screenshots/25.png"/></td>
+      <td><img src="assets/screenshots/26.png"/></td>
+      <td><img src="assets/screenshots/27.png"/></td>
+    </tr>
+    <tr>
+      <td><img src="assets/screenshots/28.png"/></td>
+      <td><img src="assets/screenshots/29.png"/></td>
+      <td><img src="assets/screenshots/30.png"/></td>
+    </tr>
+  </table>
 </p>
 
 ## 🧱 Tech Stack Overview
@@ -111,7 +176,7 @@ Fairleap AI RAG + AI Backend Repository: [https://github.com/Fairleap-AI/fairlea
 - **flask**: A lightweight and flexible WSGI web application framework designed to get applications up and running quickly.
 - **gunicorn**: A Python WSGI HTTP server for UNIX that's commonly used to serve Flask or Django web applications in production.
 - **xgboost**: An optimized gradient boosting library designed to be highly efficient, flexible, and portable for supervised learning problems.
-- **dashscope**: A Python SDK provided by Alibaba Cloud for interacting with large language models and other AI services.
+- **dashscope**: A Python SDK provided by Alibaba Cloud for interacting with large language models (Qwen) and other AI services.
 
 ### 🧹 API Backend
 
