@@ -70,6 +70,14 @@ The competition challenges innovators across Indonesia to build impactful, real-
 
 Out of all participating teams, **Fairleap AI advanced to the Top 12 Finalists**, recognizing its use of Generative AI to tackle income uncertainty and well-being for Indonesia's gig-economy drivers.
 
+## 🎬 Presentation & Demo Video
+
+<p align="center">
+  <a href="https://drive.google.com/file/d/1vIrcJjZzXG86FMHDdO9DP4x_Eg0us74s/preview">
+    <img src="assets/Demo_Video_Placeholder.png" alt="Watch the Fairleap AI presentation & demo video"/>
+  </a>
+</p>
+
 ## 🖼️ Screenshots
 
 <p align="center">
