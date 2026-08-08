@@ -16,7 +16,7 @@
 </div>
 
 <p align="center">
-  <img src="assets/logo.png"/>
+  <img src="profile/assets/logo.png"/>
   <h1 align="center">Fairleap AI</h1>
 </p>
 
@@ -46,7 +46,7 @@ Out of all participating teams, **Fairleap AI advanced to the Top 12 Finalists**
 
 <p align="center">
   <a href="https://drive.google.com/file/d/1vIrcJjZzXG86FMHDdO9DP4x_Eg0us74s/preview">
-    <img src="assets/demo.gif" alt="Watch the Fairleap AI presentation & demo video" width="100%"/>
+    <img src="profile/assets/demo.gif" alt="Watch the Fairleap AI presentation & demo video" width="100%"/>
   </a>
 </p>
 
@@ -55,54 +55,54 @@ Out of all participating teams, **Fairleap AI advanced to the Top 12 Finalists**
 <p align="center">
   <table>
     <tr>
-      <td><img src="assets/screenshots/1.png"/></td>
-      <td><img src="assets/screenshots/2.png"/></td>
-      <td><img src="assets/screenshots/3.png"/></td>
+      <td><img src="profile/assets/screenshots/1.png"/></td>
+      <td><img src="profile/assets/screenshots/2.png"/></td>
+      <td><img src="profile/assets/screenshots/3.png"/></td>
     </tr>
     <tr>
-      <td><img src="assets/screenshots/4.png"/></td>
-      <td><img src="assets/screenshots/5.png"/></td>
-      <td><img src="assets/screenshots/6.png"/></td>
+      <td><img src="profile/assets/screenshots/4.png"/></td>
+      <td><img src="profile/assets/screenshots/5.png"/></td>
+      <td><img src="profile/assets/screenshots/6.png"/></td>
     </tr>
     <tr>
-      <td><img src="assets/screenshots/7.png"/></td>
-      <td><img src="assets/screenshots/8.png"/></td>
-      <td><img src="assets/screenshots/9.png"/></td>
+      <td><img src="profile/assets/screenshots/7.png"/></td>
+      <td><img src="profile/assets/screenshots/8.png"/></td>
+      <td><img src="profile/assets/screenshots/9.png"/></td>
     </tr>
     <tr>
-      <td><img src="assets/screenshots/10.png"/></td>
-      <td><img src="assets/screenshots/11.png"/></td>
-      <td><img src="assets/screenshots/12.png"/></td>
+      <td><img src="profile/assets/screenshots/10.png"/></td>
+      <td><img src="profile/assets/screenshots/11.png"/></td>
+      <td><img src="profile/assets/screenshots/12.png"/></td>
     </tr>
     <tr>
-      <td><img src="assets/screenshots/13.png"/></td>
-      <td><img src="assets/screenshots/14.png"/></td>
-      <td><img src="assets/screenshots/15.png"/></td>
+      <td><img src="profile/assets/screenshots/13.png"/></td>
+      <td><img src="profile/assets/screenshots/14.png"/></td>
+      <td><img src="profile/assets/screenshots/15.png"/></td>
     </tr>
     <tr>
-      <td><img src="assets/screenshots/16.png"/></td>
-      <td><img src="assets/screenshots/17.png"/></td>
-      <td><img src="assets/screenshots/18.png"/></td>
+      <td><img src="profile/assets/screenshots/16.png"/></td>
+      <td><img src="profile/assets/screenshots/17.png"/></td>
+      <td><img src="profile/assets/screenshots/18.png"/></td>
     </tr>
     <tr>
-      <td><img src="assets/screenshots/19.png"/></td>
-      <td><img src="assets/screenshots/20.png"/></td>
-      <td><img src="assets/screenshots/21.png"/></td>
+      <td><img src="profile/assets/screenshots/19.png"/></td>
+      <td><img src="profile/assets/screenshots/20.png"/></td>
+      <td><img src="profile/assets/screenshots/21.png"/></td>
     </tr>
     <tr>
-      <td><img src="assets/screenshots/22.png"/></td>
-      <td><img src="assets/screenshots/23.png"/></td>
-      <td><img src="assets/screenshots/24.png"/></td>
+      <td><img src="profile/assets/screenshots/22.png"/></td>
+      <td><img src="profile/assets/screenshots/23.png"/></td>
+      <td><img src="profile/assets/screenshots/24.png"/></td>
     </tr>
     <tr>
-      <td><img src="assets/screenshots/25.png"/></td>
-      <td><img src="assets/screenshots/26.png"/></td>
-      <td><img src="assets/screenshots/27.png"/></td>
+      <td><img src="profile/assets/screenshots/25.png"/></td>
+      <td><img src="profile/assets/screenshots/26.png"/></td>
+      <td><img src="profile/assets/screenshots/27.png"/></td>
     </tr>
     <tr>
-      <td><img src="assets/screenshots/28.png"/></td>
-      <td><img src="assets/screenshots/29.png"/></td>
-      <td><img src="assets/screenshots/30.png"/></td>
+      <td><img src="profile/assets/screenshots/28.png"/></td>
+      <td><img src="profile/assets/screenshots/29.png"/></td>
+      <td><img src="profile/assets/screenshots/30.png"/></td>
     </tr>
   </table>
 </p>
